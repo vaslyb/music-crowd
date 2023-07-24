@@ -1,7 +1,7 @@
 # MusicCrowd
 ## A Crowdsourced Multi-Domain Music Dataset of Europeana Collections
 
-The dataset is part of the paper entitled *Employing Crowdsourcing for Enriching a Music Knowledge Base in Higher Education* accepted to be presented on the 4th International Conference on Artificial Intelligence in Education Technology.
+The dataset is part of the paper entitled *Employing Crowdsourcing for Enriching a Music Knowledge Base in Higher Education* presented at the 4th International Conference on Artificial Intelligence in Education Technology.
 
 This audio dataset was derived from Europeana collections and includes 854 music tracks annotated across three basic musical domains: *Genre*, *Emotion*, and *Instrument*. It is a valuable resource for Music Information Retrieval (MIR) tasks, such as music audio tagging.
 
