@@ -29,5 +29,3 @@ If you use this dataset or find the paper's results useful, please consider citi
   year={2023},
   organization={Springer}
 }
-
-}
