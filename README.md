@@ -16,3 +16,18 @@ To download the audio files for the music tracks, run the **download-data.py** s
 # Acknowledgments
 
 The work is co-funded by the Erasmus+ Program of the European Union, project number 2020-1-BE02-KA203-074727. We thank the students of the course “Knowledge Systems and Technologies” for their contributions to the crowdsourcing campaign and valuable feedback.
+## Citation
+
+If you use this dataset or find the paper's results useful, please consider citing the original paper.
+
+```bibtex
+@inproceedings{lyberatos2023employing,
+  title={Employing Crowdsourcing for Enriching a Music Knowledge Base in Higher Education},
+  author={Lyberatos, Vassilis and Kantarelis, Spyridon and Kaldeli, Eirini and Bekiaris, Spyros and Tzortzis, Panagiotis and Menis-Mastromichalakis, Orfeas and Stamou, Giorgos},
+  booktitle={International Conference on Artificial Intelligence in Education Technology},
+  pages={224--240},
+  year={2023},
+  organization={Springer}
+}
+
+}
